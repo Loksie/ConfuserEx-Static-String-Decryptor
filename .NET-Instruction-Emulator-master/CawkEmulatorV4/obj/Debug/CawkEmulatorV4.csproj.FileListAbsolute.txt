@@ -1,0 +1,80 @@
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\bin\Debug\dnlib.dll
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\bin\Debug\dnlib.pdb
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\bin\Debug\dnlib.xml
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+c:\users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\bin\Debug\SharpDisasm.dll
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojResolveAssemblyReference.cache
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\bin\Debug\dnlib.dll
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\bin\Debug\dnlib.pdb
+D:\FriendProjects\CawkEmulatorV4-master\CawkEmulatorV4-master\CawkEmulatorV4\bin\Debug\dnlib.xml
+C:\Users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+C:\Users\owner\documents\visual studio 2017\Projects\CawkEmulatorV4\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CopyComplete
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\dnlib.dll
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\dnlib.pdb
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\dnlib.xml
+C:\Users\owner\Documents\Visual Studio 2017\Projects\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CopyComplete
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\dnlib.dll
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\dnlib.pdb
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\bin\Debug\dnlib.xml
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojAssemblyReference.cache
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CopyComplete
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\2\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\bin\Debug\dnlib.dll
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\bin\Debug\dnlib.pdb
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\bin\Debug\dnlib.xml
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojAssemblyReference.cache
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CopyComplete
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+D:\Unpackers\Private\NetGuard\NetGuard Full Deobfuscator\Github\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+C:\Users\oner\Documents\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojAssemblyReference.cache
+C:\Users\oner\Documents\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+C:\Users\oner\Documents\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+C:\Users\oner\Documents\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+C:\Users\oner\Documents\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+C:\Users\oner\Documents\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+C:\Users\oner\Documents\CawkEmulatorV4\bin\Debug\dnlib.dll
+C:\Users\oner\Documents\CawkEmulatorV4\bin\Debug\dnlib.pdb
+C:\Users\oner\Documents\CawkEmulatorV4\bin\Debug\dnlib.xml
+C:\Users\oner\Documents\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CopyComplete
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\dnlib.dll
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\dnlib.pdb
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\dnlib.xml
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojAssemblyReference.cache
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CopyComplete
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+D:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csprojAssemblyReference.cache
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CoreCompileInputs.cache
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.dll
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.pdb
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.dll
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\CawkEmulatorV4.pdb
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\dnlib.dll
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\dnlib.pdb
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\bin\Debug\dnlib.xml
+E:\Libraries\cawk-Emulator\.NET-Instruction-Emulator-master\CawkEmulatorV4\obj\Debug\CawkEmulatorV4.csproj.CopyComplete
