@@ -1,0 +1,14 @@
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\ConfuserEx String Decryptor.exe.config
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\ConfuserEx String Decryptor.exe
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\ConfuserEx String Decryptor.pdb
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\CawkEmulatorV4.dll
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\dnlib.dll
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\SharpDisasm.dll
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\CawkEmulatorV4.pdb
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\dnlib.pdb
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\bin\Debug\dnlib.xml
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\obj\Debug\ConfuserEx String Decryptor.csprojAssemblyReference.cache
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\obj\Debug\ConfuserEx String Decryptor.csproj.CoreCompileInputs.cache
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\obj\Debug\ConfuserEx String Decryptor.csproj.CopyComplete
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\obj\Debug\ConfuserEx String Decryptor.exe
+D:\Users\owner\source\ConfuserEx String Decryptor\ConfuserEx String Decryptor\obj\Debug\ConfuserEx String Decryptor.pdb

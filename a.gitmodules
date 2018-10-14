@@ -1,0 +1,6 @@
+[submodule "dnlib"]
+	path = dnlib
+	url = https://github.com/0xd4d/dnlib.git
+[submodule ".NET-Instruction-Emulator"]	
+	path = .NET-Instruction-Emulator
+	url = https://github.com/cawk-untested/.NET-Instruction-Emulator.git
